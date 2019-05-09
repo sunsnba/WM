@@ -1,4 +1,4 @@
-# Weedmaps Frontend Code Challenge
+# Frontend Code Challenge
 
 ###### Table of Contents
 * [Prerequisites](#prerequisites)
